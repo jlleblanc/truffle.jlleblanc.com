@@ -1,28 +1,48 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import TruffleFeed from '../components/TruffleFeed'
 
-export const query = graphql`
-  query AllTruffles {
-    allFeedJson {
-      edges {
-        node {
-          id
-          hostId
-          timestamp
-          Comment
-          Bible_passage
-        }
-      }
+class Reader extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      error: null,
+      isLoaded: false,
+      truffles: []
     }
   }
-`
 
-const Reader = ({ data }) => (
-  <div>
-    <h1>
-    I'm joe {data.allFeedJson.edges[0].node.id}
-    </h1>
-  </div>
-)
+  componentDidMount() {
+    fetch("/feed.json")
+      .then(res => res.json())
+      .then(
+        (result) => {
+          this.setState({
+            isLoaded: true,
+            truffles: result
+          })
+        },
+        (error) => {
+          this.setState({
+            isLoaded: true,
+            error
+          })
+        }
+      )
+  }
+
+  render() {
+    const { error, isLoaded, truffles } = this.state
+    if (error) {
+      return <div>Error: {error.message}</div>;
+    } else if (!isLoaded) {
+      return <div>Loading...</div>;
+    } else {
+      return (
+        <TruffleFeed truffles={truffles} />
+      )
+    }
+
+  }
+}
 
 export default Reader
