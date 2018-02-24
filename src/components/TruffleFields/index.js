@@ -1,4 +1,5 @@
 import React from 'react'
+import TruffleField from '../TruffleField'
 
 class TruffleFields extends React.Component {
   constructor(props) {
@@ -10,15 +11,13 @@ class TruffleFields extends React.Component {
 
   render() {
     const { fields } = this.state
+
     return (
-      <dl>
+      <div>
         {fields.map(field => (
-          <span key={field.type}>
-            <dt>{field.type}</dt>
-            <dd>{field.value}</dd>
-          </span>
+          <TruffleField key={field.type} type={field.type} value={field.value} />
         ))}
-      </dl>
+      </div>
     )
   }
 }
