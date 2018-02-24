@@ -10,9 +10,6 @@ class TruffleField extends React.Component {
     }
   }
 
-  // TODO: this is where we're going to have to determine the type, then
-  // conditionally load a field render for each
-
   render () {
     const { type, value } = this.state
 
@@ -21,23 +18,6 @@ class TruffleField extends React.Component {
     return (
       <Renderer type={type} value={value} />
     )
-
-    // if (type == 'Comment') {
-    //   return (
-    //     <div>
-    //       <h4>{type}</h4>
-    //       <p>{value}</p>
-    //     </div>
-    //   )
-    // } else {
-    //   return (
-    //     <div>
-    //       <h4>{type}</h4>
-    //       <p>{value}</p>
-    //     </div>
-    //   )
-    // }
-
   }
 }
 
