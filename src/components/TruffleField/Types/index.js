@@ -3,17 +3,22 @@ import Tag from './Tag'
 import Plain from './Plain'
 import List from './List'
 import Link from './Link'
+import Audio from './Audio'
 
 let typeMap = {
-  'Tag': Tag,
-  'Comment': Comment,
-  'Link': Link
+  'tag': Tag,
+  'comment': Comment,
+  'recipe': Comment,
+  'link': Link,
+  'podcast episode': Audio
 }
 
 class Types {
   static find(type, value) {
-    if (typeMap.hasOwnProperty(type)) {
-      return typeMap[type]
+    let normalizedType = type.toLowerCase()
+
+    if (typeMap.hasOwnProperty(normalizedType)) {
+      return typeMap[normalizedType]
     }
 
     if (typeof(value) === "boolean") {
