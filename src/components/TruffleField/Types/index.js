@@ -4,13 +4,15 @@ import Plain from './Plain'
 import List from './List'
 import Link from './Link'
 import Audio from './Audio'
+import Bible from './Bible'
 
 let typeMap = {
   'tag': Tag,
   'comment': Comment,
   'recipe': Comment,
   'link': Link,
-  'podcast episode': Audio
+  'podcast episode': Audio,
+  'bible passage': Bible
 }
 
 class Types {
