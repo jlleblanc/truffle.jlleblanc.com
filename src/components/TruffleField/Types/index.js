@@ -1,6 +1,7 @@
 import Comment from './Comment'
 import Tag from './Tag'
 import Plain from './Plain'
+import List from './List'
 
 let typeMap = {
   'Tag': Tag,
@@ -17,9 +18,8 @@ class Types {
       return Tag
     }
 
-    // TODO: this should define an array type
-    if (typeof(value) === "array") {
-      return Plain
+    if (Array.isArray(value)) {
+      return List
     }
 
     return Plain
