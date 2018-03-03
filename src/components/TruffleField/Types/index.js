@@ -5,6 +5,7 @@ import List from './List'
 import Link from './Link'
 import Audio from './Audio'
 import Bible from './Bible'
+import Instagram from './Instagram'
 
 let typeMap = {
   'tag': Tag,
@@ -12,7 +13,8 @@ let typeMap = {
   'recipe': Comment,
   'link': Link,
   'podcast episode': Audio,
-  'bible passage': Bible
+  'bible passage': Bible,
+  'instagram': Instagram
 }
 
 class Types {
@@ -31,6 +33,7 @@ class Types {
       return List
     }
 
+    // Handle string types last
     if (value.indexOf('http') === 0) {
       return Link
     }
