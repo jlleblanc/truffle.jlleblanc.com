@@ -1,11 +1,12 @@
 import React from 'react'
 import TruffleFields from '../TruffleFields'
+import formatTimestamp from '../../lib/format-timestamp'
 
 const Truffle = ({ id, timestamp, hostId, fields }) => (
-  <div>
-    {id} {timestamp} {hostId}
+  <article>
+    {formatTimestamp(timestamp)}
     <TruffleFields fields={fields} />
-  </div>
+  </article>
 )
 
 export default Truffle

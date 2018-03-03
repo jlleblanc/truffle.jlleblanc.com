@@ -2,7 +2,7 @@ import React from 'react'
 
 const List = ({ type, value }) => (
   <div>
-    <h4>{type}</h4>
+    <strong>{type}</strong>
     <ul>
       {value.map(listItem => (
         <li key={listItem}>{listItem}</li>
