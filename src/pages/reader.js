@@ -1,5 +1,7 @@
 import React from 'react'
 import TruffleFeed from '../components/TruffleFeed'
+import TruffleRepository from '../lib/TruffleRepository'
+
 
 class Reader extends React.Component {
   constructor(props) {
@@ -14,11 +16,16 @@ class Reader extends React.Component {
   componentDidMount() {
     fetch("/feed.json")
       .then(res => res.json())
+      .then(rawFeed => {
+        var repo = new TruffleRepository()
+        repo.parse(rawFeed)
+        return repo
+      })
       .then(
         (result) => {
           this.setState({
             isLoaded: true,
-            truffles: result
+            truffleRepo: result
           })
         },
         (error) => {
@@ -31,14 +38,14 @@ class Reader extends React.Component {
   }
 
   render() {
-    const { error, isLoaded, truffles } = this.state
+    const { error, isLoaded, truffleRepo } = this.state
     if (error) {
       return <div>Error: {error.message}</div>;
     } else if (!isLoaded) {
       return <div>Loading...</div>;
     } else {
       return (
-        <TruffleFeed truffles={truffles} />
+        <TruffleFeed truffleRepo={truffleRepo} />
       )
     }
 
