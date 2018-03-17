@@ -3,6 +3,7 @@ import Truffle from '../Truffle'
 import Guests from '../Guests'
 import TruffleRepository from '../../lib/TruffleRepository'
 import extractFields from '../../lib/extract-truffle-fields'
+import Link from "gatsby-link"
 
 class SingleTruffle extends React.Component {
   constructor(props) {
@@ -59,6 +60,7 @@ class SingleTruffle extends React.Component {
             guests={[]}
            />
            <Guests guests={guests} />
+           <Link to="/">🔙 return to list</Link>
         </div>
       )
     }
