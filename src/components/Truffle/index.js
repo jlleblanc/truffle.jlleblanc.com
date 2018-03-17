@@ -3,6 +3,7 @@ import TruffleFields from '../TruffleFields'
 import GuestSummary from '../GuestSummary'
 import formatTimestamp from '../../lib/format-timestamp'
 import styled from "styled-components"
+import Link from "gatsby-link"
 
 const Truffle = styled.div`
   border-radius: .25rem;
@@ -13,7 +14,9 @@ const Truffle = styled.div`
 
 export default ({ id, timestamp, hostId, fields, guests }) => (
   <Truffle>
-    {formatTimestamp(timestamp)}
+    <Link to={id}>
+      {formatTimestamp(timestamp)}
+    </Link>
     <TruffleFields fields={fields} />
     <GuestSummary guestCount={guests.length} />
   </Truffle>

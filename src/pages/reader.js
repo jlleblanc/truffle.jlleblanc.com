@@ -1,55 +1,17 @@
 import React from 'react'
 import TruffleFeed from '../components/TruffleFeed'
+import SingleTruffle from '../components/SingleTruffle'
 import TruffleRepository from '../lib/TruffleRepository'
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 
-class Reader extends React.Component {
-  constructor(props) {
-    super(props)
-    this.state = {
-      error: null,
-      isLoaded: false,
-      truffles: []
-    }
-  }
-
-  componentDidMount() {
-    fetch("/feed.json")
-      .then(res => res.json())
-      .then(rawFeed => {
-        var repo = new TruffleRepository()
-        repo.parse(rawFeed)
-        return repo
-      })
-      .then(
-        (result) => {
-          this.setState({
-            isLoaded: true,
-            truffleRepo: result
-          })
-        },
-        (error) => {
-          this.setState({
-            isLoaded: true,
-            error
-          })
-        }
-      )
-  }
-
-  render() {
-    const { error, isLoaded, truffleRepo } = this.state
-    if (error) {
-      return <div>Error: {error.message}</div>;
-    } else if (!isLoaded) {
-      return <div>Loading...</div>;
-    } else {
-      return (
-        <TruffleFeed truffleRepo={truffleRepo} />
-      )
-    }
-
-  }
-}
+const Reader = () => (
+  <Router>
+    <div>
+      <Route path="/reader" exact={true} component={TruffleFeed} />
+      <Route path="/reader/:id" exact={true} component={SingleTruffle} />
+    </div>
+  </Router>
+)
 
 export default Reader

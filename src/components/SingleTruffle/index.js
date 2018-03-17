@@ -1,15 +1,17 @@
 import React from 'react'
 import Truffle from '../Truffle'
+import Guests from '../Guests'
 import TruffleRepository from '../../lib/TruffleRepository'
 import extractFields from '../../lib/extract-truffle-fields'
 
-class TruffleFeed extends React.Component {
+class SingleTruffle extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
       error: null,
       isLoaded: false,
-      truffleRepo: null
+      truffleRepo: null,
+      match: props.match
     }
   }
 
@@ -38,26 +40,25 @@ class TruffleFeed extends React.Component {
   }
 
   render() {
-    const { error, isLoaded, truffleRepo } = this.state
+    const { error, isLoaded, truffleRepo, match } = this.state
     if (error) {
       return <div>Error: {error.message}</div>;
     } else if (!isLoaded) {
       return <div>Loading...</div>;
     } else {
+      var truffle = truffleRepo.masterList.get(match.params.id)
+      var guests = truffleRepo.getGuests(truffle)
       return (
         <div>
-          {truffleRepo.hostIdList.map(id => {
-              var truffle = truffleRepo.masterList.get(id)
-              return <Truffle
-                      key={truffle.id}
-                      id={truffle.id}
-                      hostId={truffle.hostId}
-                      timestamp={truffle.timestamp}
-                      fields={extractFields(truffle)}
-                      guests={truffleRepo.getGuests(truffle)}
-                     />
-            })
-          }
+          <Truffle
+            key={truffle.id}
+            id={truffle.id}
+            hostId={truffle.hostId}
+            timestamp={truffle.timestamp}
+            fields={extractFields(truffle)}
+            guests={[]}
+           />
+           <Guests guests={guests} />
         </div>
       )
     }
@@ -65,4 +66,4 @@ class TruffleFeed extends React.Component {
   }
 }
 
-export default TruffleFeed
+export default SingleTruffle
