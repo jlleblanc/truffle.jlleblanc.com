@@ -12,7 +12,7 @@ class SingleTruffle extends React.Component {
       error: null,
       isLoaded: false,
       truffleRepo: null,
-      match: props.match
+      id: props.id
     }
   }
 
@@ -41,13 +41,13 @@ class SingleTruffle extends React.Component {
   }
 
   render() {
-    const { error, isLoaded, truffleRepo, match } = this.state
+    const { error, isLoaded, truffleRepo, id } = this.state
     if (error) {
       return <div>Error: {error.message}</div>;
     } else if (!isLoaded) {
       return <div>Loading...</div>;
     } else {
-      var truffle = truffleRepo.masterList.get(match.params.id)
+      var truffle = truffleRepo.masterList.get(id)
       var guests = truffleRepo.getGuests(truffle)
       return (
         <div>

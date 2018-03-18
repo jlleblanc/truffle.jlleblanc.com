@@ -14,7 +14,7 @@ const Truffle = styled.div`
 
 export default ({ id, timestamp, hostId, fields, guests }) => (
   <Truffle>
-    <Link to={id}>
+    <Link to={'/reader/#/' + id}>
       {formatTimestamp(timestamp)}
     </Link>
     <TruffleFields fields={fields} />
