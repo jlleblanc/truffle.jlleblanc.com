@@ -1,5 +1,11 @@
 [
   {
+    "id": "d1dc04c0-e1ed-477b-ab49-e94b945b00bf",
+    "timestamp": "2018-03-17T23:01:52.461Z",
+    "Comment": "I really like Gatsby and finally got a good Truffle reader written in it, but it looks like I can't build it with hashlinks. Maybe I'll just have to port all of this over to a plain React app instead.",
+    "Link": "https://github.com/gatsbyjs/gatsby/issues/4395"
+  },
+  {
     "id": "d7219691-07a7-4cbd-9080-152c9ea3520d",
     "timestamp": "2018-03-15T22:13:26.359Z",
     "Comment": "I don't go here very often, but when I do, this is what I get.",
