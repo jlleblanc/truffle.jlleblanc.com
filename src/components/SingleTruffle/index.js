@@ -60,7 +60,7 @@ class SingleTruffle extends React.Component {
             guests={[]}
            />
            <Guests guests={guests} />
-           <Link to="/">🔙 return to list</Link>
+           <Link to="/reader/">🔙 return to list</Link>
         </div>
       )
     }
