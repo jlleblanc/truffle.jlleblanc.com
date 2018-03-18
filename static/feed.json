@@ -1,5 +1,11 @@
 [
   {
+    "id": "b1ab9d43-da62-430c-a28c-f21b2c435c12",
+    "timestamp": "2018-03-18T18:54:37.508Z",
+    "hostId": "d1dc04c0-e1ed-477b-ab49-e94b945b00bf",
+    "Comment": "Found a workaround for the hashlinks issue, Truffle on Gatsby forever!"
+  },
+  {
     "id": "d1dc04c0-e1ed-477b-ab49-e94b945b00bf",
     "timestamp": "2018-03-17T23:01:52.461Z",
     "Comment": "I really like Gatsby and finally got a good Truffle reader written in it, but it looks like I can't build it with hashlinks. Maybe I'll just have to port all of this over to a plain React app instead.",
