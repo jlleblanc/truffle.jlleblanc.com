@@ -1,0 +1,768 @@
+[
+  {
+    "id": "d1dc04c0-e1ed-477b-ab49-e94b945b00bf",
+    "timestamp": "2018-03-17T23:01:52.461Z",
+    "Comment": "I really like Gatsby and finally got a good Truffle reader written in it, but it looks like I can't build it with hashlinks. Maybe I'll just have to port all of this over to a plain React app instead.",
+    "Link": "https://github.com/gatsbyjs/gatsby/issues/4395"
+  },
+  {
+    "id": "d7219691-07a7-4cbd-9080-152c9ea3520d",
+    "timestamp": "2018-03-15T22:13:26.359Z",
+    "Comment": "I don't go here very often, but when I do, this is what I get.",
+    "Starbucks drink": "Tall Green Tea Latte"
+  },
+  {
+    "id": "5c3d1951-9b6a-467e-816f-9a9702fbccc4",
+    "timestamp": "2018-03-14T02:26:50.534Z",
+    "Reflection": "Spent almost a full decade working with an open-source CMS and a community of interesting people. It was my profession, my hobby, and (if I'm being honest) my friends all rolled into one big ball. I got to a point where I realized I was spending more time bringing new technology into the context of that CMS than I was learning how to be a better software developer. I had to move away from being an \"expert\" in that world and start over with something new. Some of my skills did transfer, but I also had to come to terms with \"dropping stuff on the floor\" and not picking it up again."
+  },
+  {
+    "id": "3e70592c-f404-44e0-bae7-3b4362fbd0bd",
+    "timestamp": "2018-03-10T04:04:15.245Z",
+    "Comment": "Ended up spending the day at home because all of the coffeeshops were full of people avoiding traffic!",
+    "SXSW": true
+  },
+  {
+    "id": "a766c878-0216-4c95-80ad-142db70baed4",
+    "timestamp": "2018-03-03T20:46:43.720Z",
+    "Comment": "We had employee appreciation day and a fun t-shirt landed on my desk!",
+    "Company": "BigCommerce",
+    "Instagram": "https://www.instagram.com/p/Bf05sL4l4wu/?taken-by=joeinatx"
+  },
+  {
+    "id": "ba0daedd-05bc-41e8-88ad-b5fa5534071f",
+    "hostId": "72b20752-ec3d-40eb-b570-28039d749c03",
+    "timestamp": "2018-03-03T06:20:36.475Z",
+    "Comment": "Verdict is in, these are great!"
+  },
+  {
+    "id": "54c257b0-ff35-4674-925d-66a4a04992e4",
+    "timestamp": "2018-03-02T03:42:57.206Z",
+    "Comment": "This evening, I'm reminding myself to clean the house a little bit at a time. Still have a ways to go on some areas, but it will happen soon!"
+  },
+  {
+    "id": "482aa843-180c-4b2a-a8db-04daca46605a",
+    "timestamp": "2018-02-27T04:02:10.055Z",
+    "Slogan": "Come to work full"
+  },
+  {
+    "id": "1d155de5-8c89-4d57-98a0-c502125d860e",
+    "timestamp": "2018-02-24T03:07:00.579Z",
+    "Comment": "I got a haircut yesterday. This is a truffle to remind me of when I got a haircut.",
+    "Haircut": true
+  },
+  {
+    "id": "30704b16-bdc5-4709-90e3-a99f864134ea",
+    "timestamp": "2018-02-21T03:17:43.908Z",
+    "Comment": "Dinner was low carb... maybe a little too low carb. Ended up making this afterwards to compensate.",
+    "Snack": "Popcorn"
+  },
+  {
+    "id": "68041b52-f0ed-4d40-ac00-d42ff8c84082",
+    "timestamp": "2018-02-20T04:09:27.932Z",
+    "Comment": "Today was the first day of my new schedule. It didn't go the way I anticipated and probably not the way every day is going to turn out, but it's better than I've been fearing it would be.",
+    "Breakfast": "Sweet potato hash with ground sausage"
+  },
+  {
+    "id": "820c361f-1e94-4e29-9e3a-73dfc65a9488",
+    "timestamp": "2018-02-13T03:48:05.053Z",
+    "Comment": "Finally got around to some much needed self-care this evening.",
+    "Yoga": "Vinyasa"
+  },
+  {
+    "id": "ace193dd-5b24-4c37-b978-0d9d836cd995",
+    "timestamp": "2018-02-06T03:10:26.953Z",
+    "Comment": "I recently decided new tabs for my browser need a centerpiece. Here's one I made.",
+    "Link": "https://gist.github.com/jlleblanc/e4691cdb4669fcd3b0c95b81684b2a00"
+  },
+  {
+    "id": "967de6a1-5a9d-452e-b43a-0799932b68f2",
+    "timestamp": "2018-02-05T03:44:09.865Z",
+    "Comment": "I've been learning a bit about React and GraphQL lately and stumbled upon Gatsby. I think I've finally found something that'll help me move Truffle along!",
+    "Code frameworks": [
+      "React",
+      "GraphQL",
+      "Gatsby"
+    ]
+  },
+  {
+    "id": "72b20752-ec3d-40eb-b570-28039d749c03",
+    "timestamp": "2018-02-03T18:40:13.524Z",
+    "Comment": "We decided to spend a little extra money on these. They smell pretty good; hopefully it'll mask what goes into them!",
+    "Product": "earth rated lavender scented poop bags"
+  },
+  {
+    "id": "4ec6773e-532e-474b-b983-37edb73a9c22",
+    "timestamp": "2018-01-31T00:03:45.336Z",
+    "Comment": "Just a typical day in January.",
+    "City": "Austin",
+    "Allergies": [
+      "Cedar",
+      "Mold",
+      "Alternaria"
+    ]
+  },
+  {
+    "id": "c45e3ff1-834d-4c0f-94ae-42a6b2202fef",
+    "timestamp": "2018-01-27T23:03:02.026Z",
+    "Comment": "This morning I did an Instagram live video of making coffee. As I was doing it, I realized I've missed using the \"talk-while-doing-something\" skills I learned while making videos for lynda.com. I'm going to look into ways I can exercise those muscles again; would love to get back into recording and teaching!",
+    "Coffee": "Central Market Organic Breakfast Blend",
+    "Coffee preparation": "Pourover"
+  },
+  {
+    "id": "26003a96-775c-4ff5-9a1f-644a2ccf12d2",
+    "timestamp": "2018-01-27T05:22:13.687Z",
+    "Comment": "There are a lot of new programming tools that come out where I want to jump in and start learning. However, I know that by the time I get around to sitting down and written something non-trivial in it, someone either makes a framework or it's superseded by something else.",
+    "Web standard": "WebAssembly"
+  },
+  {
+    "id": "d556b6bf-7f37-447c-9ee0-545f667839e3",
+    "timestamp": "2018-01-25T00:49:34.651Z",
+    "Comment": "Been getting over some illness and drinking a lot of this. If nothing else, it's warm and mostly water.",
+    "Beverage": "Ginger tea"
+  },
+  {
+    "id": "fb647698-abf3-4f88-8e99-72ec3bfb54ce",
+    "timestamp": "2018-01-14T21:44:08.766Z",
+    "Comment": "Enjoyed some of these with Andrew the other day as we wrapped up a night of errands. Needed something to help us wind down, so we warmed them up on cups of tea and watched some TV I'm catching up on.",
+    "Dessert": "Stroopwafel",
+    "TV show": "30 Rock"
+  },
+  {
+    "id": "042d26dd-f4eb-4e92-9f3c-1b8a876d8d5f",
+    "timestamp": "2018-01-10T00:34:26.232Z",
+    "Comment": "We won the puppy lottery when we picked up Ellie. She's super well behaved and is always ridiculously excited to see you when you come home!",
+    "Dog": "Labpit mix"
+  },
+  {
+    "id": "0dd991dd-3a28-4ddd-b137-02271821166c",
+    "timestamp": "2018-01-10T00:33:34.303Z",
+    "Comment": "For the next month or so, I'm going to practice adding different types of messages to my Truffle feed."
+  },
+  {
+    "id": "dfcd43b1-7e0d-4e30-8bb7-cab0629ec327",
+    "timestamp": "2018-01-09T03:14:56.134Z",
+    "Comment": "It's that odd time of year when you still have a bit of leftover Christmas chocolate, but you're trying to eat well to make up for all of the stuff you ate last month.",
+    "choices": true
+  },
+  {
+    "id": "f0dc2eba-19a2-4c9b-a7e7-ef8698878193",
+    "timestamp": "2018-01-07T21:58:22.197Z",
+    "Comment": "Finally got a chance to see this before it left theaters. Funny, bizarre, and heartwarming!",
+    "Movie": "The Disaster Artist"
+  },
+  {
+    "id": "5b0f6ddf-cbfb-4e80-9566-052cab1a3174",
+    "timestamp": "2018-01-06T18:58:56.863Z",
+    "Comment": "Read this yesterday. For much of my upbringing, a lot of focus was put on 'the spiritual forces of evil in the heavenly realms' in the form of spiritual warfare. But if you take a closer look at the list in verse 12, it starts off by first listing 'rulers' and 'authorities' as our adversaries, while still maintaining that 'our struggle is not against flesh and blood.' What does this passage look like when we read it being about institutions and governments rather than more abstract forces?",
+    "Bible passage": "Ephesians 6:10-18"
+  },
+  {
+    "id": "7cc395d1-4295-4929-9a55-0cc6baa4e2df",
+    "timestamp": "2018-01-05T03:49:43.491Z",
+    "Comment": "Been doing a little car shopping. We test drove one this evening and think we've found something we like. Impressive gas mileage!",
+    "Car": "Kia Niro"
+  },
+  {
+    "id": "38e91bc5-5114-4eb6-a53a-351406bec621",
+    "timestamp": "2018-01-03T03:55:53.027Z",
+    "Comment": "I've said it before, but I'll say it again: don't make New Year's Resolutions in January. You're still either hungover or coming off a sugar high! Spend the month of January thinking of some things you want to accomplish this year, then coming up with some achieveable milestones towards that goal. Then put your plan into place on Chinese New Year. You gain six weeks of planning!",
+    "ChineseNewYear": true,
+    "NewYearsResolutions": true
+  },
+  {
+    "id": "f8ad938d-caf3-41fe-9e8b-79f19a75d8f3",
+    "timestamp": "2018-01-02T03:32:22.857Z",
+    "Comment": "2017 was crazy. It felt like an entire decade hit all at once. But in the middle of it, I got to marry this beautiful, wonderful man. Over the past 48 hours, I’ve been battling a head cold and he’s been taking care of me. He’s gone on takeout runs, been understanding when I wanted to ring in the new year with cough syrup instead of champagne, reminded me that we have sudafed, and did my grocery shopping on a Sunday afternoon at HEB 🏆. 2018 is going to be great! I love you, Andrew.",
+    "Link": "https://www.instagram.com/p/Bdbg-lclRe5/",
+    "Marriage": true
+  },
+  {
+    "id": "a240eccc-2bc3-425a-9c96-6291d3e4e9be",
+    "timestamp": "2017-12-30T21:52:34.832Z",
+    "Comment": "Currently sitting in and surrounded by a bunch of Steelcase furniture, comfy!",
+    "Airport": "GRR"
+  },
+  {
+    "id": "ca9d2f20-7702-4e3d-9c4f-db417498eab4",
+    "timestamp": "2017-12-29T19:09:38.251Z",
+    "Comment": "Over the past couple of years, I've been learning about the Enneagram personality typing system. I like it over other systems for a few reasons. One reason is that it works more like a spectrum of personality: everyone's unique, but you tend to have one set of personality traits that are stronger than the others. Another reason is that the Enneagram shows how each personality picks up characteristics of another personality as they move towards health or stress. My Enneagram type is 1, also known as the Reformer or the Perfectionist. As I become more emotionally healthy, I move towards type 7 (the Enthusiast.) I'm finding that for me, the gateway towards 7 can come in the form of silliness! So I'm looking for more opportunities to practice silliness. Here's a photo of my green poop Christmas tree emoji hat.",
+    "Link": "https://www.instagram.com/p/BcyRKrzFhcI/",
+    "Enneagram type": "1"
+  },
+  {
+    "id": "7816377d-c785-4ee0-9639-059e740a45e5",
+    "hostId": "b590c397-cda3-494d-9e5f-f6c03347078a",
+    "timestamp": "2017-12-28T16:44:20.018Z",
+    "Comment": "Could we have sponsored driverless car rides?",
+    "Link": "https://www.theatlantic.com/technology/archive/2017/12/self-driving-cars-free-future/548945/",
+    "DriverlessCars": true
+  },
+  {
+    "id": "38f81be8-1849-4d7b-bacf-ad79655c7137",
+    "hostId": "b590c397-cda3-494d-9e5f-f6c03347078a",
+    "timestamp": "2017-12-28T16:37:39.113Z",
+    "Comment": "\"I just stopped listening to them.\" I think any small town would be lucky to have someone like Erica Leonard managing their mall!",
+    "Link": "https://www.nytimes.com/2017/12/24/business/mall-retail.html",
+    "RetailApocalypse": true
+  },
+  {
+    "id": "b590c397-cda3-494d-9e5f-f6c03347078a",
+    "timestamp": "2017-12-28T15:49:49.766Z",
+    "Comment": "A couple of stories that have held my attention this year: the \"retail apocalypse\" and driverless cars. While they're both happening now to varying extents, they're also several years away from being mainstream. If the peak of both hit at the same time, we'll have a situation where there will be acres of under/unused commercial space, surrounded by extraneous parking lots (especially if driverless cars are used exclusively for Uber/Lyft-style services.) On one hand, this could create a situation where people just move farther away from cities and suburbs to avoid living near dead malls. On the other hand, a lot of those parking lots could become new housing and office space. It'll be interesting to see how all of this pans out.",
+    "RetailApocalypse": true,
+    "DriverlessCars": true,
+    "UrbanDevelopment": true
+  },
+  {
+    "id": "3a4ce975-4b1f-4e6c-bacb-b052baa08582",
+    "timestamp": "2017-12-25T04:19:09.289Z",
+    "Comment": "If you've run out of Great British Bake Off episodes and you're looking for more, you might give this a shot. Unfortunately, it lacks the emotional investment and payoff that GBBO has. Fine for if you want to leave something on in the backround while you do something else.",
+    "TV show": "The Big Family Cooking Showdown"
+  },
+  {
+    "id": "ed8a1813-2437-4875-ad60-a4907a5e2aa1",
+    "timestamp": "2017-12-22T02:40:46.912Z",
+    "Comment": "Adding this to my collection of developer career advice. It's something to watch out for whenever you go!",
+    "Link": "https://twitter.com/hipsterhacker/status/45018815708405760?lang=en",
+    "oldie": true,
+    "CareerAdvice": true
+  },
+  {
+    "id": "da5277bd-930b-4cb6-b65a-6b885c765309",
+    "timestamp": "2017-12-22T02:19:43.308Z",
+    "Comment": "I'm willing to buy and sell things using Bitcoin, but I'm not willing to spend any dollars to buy them. How then would I get them? I've toyed around with the idea of having a Bitcoin-only garage sale or some sort of hobby business. I'm just not willing to go back and forth between USD and Bitcoin if the main point of Bitcoin is that centralized currencies are obsolete!",
+    "Bitcoin": true,
+    "cryptocurrency": true
+  },
+  {
+    "id": "dd673418-6b75-4932-a27d-4f8d2b731416",
+    "timestamp": "2017-12-20T01:25:34.332Z",
+    "Comment": "It's been unseasonably wet and warm today. Just when you thought it was 100% soup weather, you get hit with a warm snap.",
+    "Weather": "Damp, warm, cloudy.",
+    "Weather emoji": "🌥",
+    "Temperature": "19ºC"
+  },
+  {
+    "id": "923ba957-4b40-4d6c-96b5-b8b2e67f3508",
+    "timestamp": "2017-12-16T17:42:45.390Z",
+    "Comment": "If I'm being honest, this is my least favorite time of year. Not because of Christmas itself, but because there's this rush at the end of the year to accomplish things. Expectations and obligations pile up, and it wears on me. Whenever I try to express this to other people, I get a lot of unhelpful advice like \"it's okay to be sad.\" The thing is, I'm not necessarily sad about anything. I feel like my body naturally wants me to slow down, while other people are trying to speed things up. It's exhausting. My coping strategy is pretty much just \"grin and bear it.\"",
+    "exhausted": true,
+    "LeastFavoriteTimeOfTheYear": true,
+    "ImNotAGrinchISwear": true
+  },
+  {
+    "id": "8ec3ad90-e174-4892-9260-2db86dc2698d",
+    "timestamp": "2017-12-14T03:24:15.104Z",
+    "Comment": "We had a gift exchange this evening and I stole a peach candle. I love scented candles that much.",
+    "candles": true,
+    "JoeMayBeSecretlyBasic": true
+  },
+  {
+    "id": "5d8b53e4-e061-4c89-b7a8-1efc0dbcdedc",
+    "timestamp": "2017-12-12T03:05:13.952Z",
+    "Beverage": "Overly reduced cider tea",
+    "Ingredients": [
+      "1 T overly reduced apple cider (syrup consistency)",
+      "Boiled water",
+      "Small piece of fresh ginger"
+    ],
+    "Recipe": "While the water boils, put the overly reduced cider in a mug. Slice a small piece of fresh ginger and add it to the mug. Once the water boils, pour the water over the ginger and cider syrup. Stir and sip."
+  },
+  {
+    "id": "7520b466-aa33-43a7-8854-6c265470ed53",
+    "timestamp": "2017-12-10T23:23:27.078Z",
+    "Comment": "Trying to find a way of centrally accepting Truffle data, while writing minimal backend code. Don't want to write something that I have to invest time in keeping up.",
+    "code": true
+  },
+  {
+    "id": "eb048143-1906-4c07-bb55-224aa8c8d1cf",
+    "timestamp": "2017-12-09T21:43:10.414Z",
+    "Comment": "I'm now distributing Truffles without camel-cased field names, let's see how this works!"
+  },
+  {
+    "id": "affa928a-da0c-4e75-b7b3-946e069c3b98",
+    "timestamp": "2017-12-09T17:45:51.581Z",
+    "Comment": "Today I am debating about the suggestion that `id` fields in Truffle be UUIDs. If at all possible, I would love to change this to a human-readable value. We could keep the idea that computers will generating the value for us automatically, but it would be nice if we could keep with the idea that all Truffle data should be human readable.",
+    "truffle": true
+  },
+  {
+    "id": "a47dafa5-710a-4265-91eb-769a2e32431a",
+    "timestamp": "2017-12-07T04:06:46.686Z",
+    "Comment": "Two things: first, today I realized you can use almost any string for JSON keys except for a single digit. Second, I may be renaming Truffle to something more descriptive. Stay tuned!",
+    "The moment when you realize two things at once": true
+  },
+  {
+    "id": "0ef38e1f-1259-4b81-932a-df84dd9ff0b4",
+    "timestamp": "2017-12-02T21:54:03.802Z",
+    "Comment": "I've been running into an issue with rendering truffles, and I think I've discovered the root: since I'm rendering things without knowing what properties will be available, frameworks like Vue and React cannot predict what I'm going to give them, which really makes the code difficult to write (not to mention causes performance issues.) What I need to do to remedy this is parse the truffle properties into an array of objects so they can be a bit more predictable.",
+    "Code frameworks": [
+      "Vue",
+      "React"
+    ],
+    "code": true
+  },
+  {
+    "id": "8efecf32-4718-4056-9abb-d11d3f0c78e2",
+    "timestamp": "2017-12-02T04:09:35.948Z",
+    "Comment": "Been enjoying the posts from this Instagram account. It takes Purity Culture books (e.g. books telling you to court instead of date) and blacks out all but a few words to create a bit of art.",
+    "Link": "https://www.instagram.com/holyblackedout/",
+    "LGBTQIA": true,
+    "FaithfullyLGBT": true,
+    "PurityCulture": true
+  },
+  {
+    "id": "33f8a54a-89f5-48e0-bd36-273a3c93e358",
+    "timestamp": "2017-12-01T03:16:42.265Z",
+    "Comment": "One thing I like about cooler weather is that we can light candles without it getting too warm in the house. We have the Woodwick candles that crackle as they burn so it sounds like you have a mini-fireplace!",
+    "Temperature": "17ºC",
+    "candles": true,
+    "cutsey": true
+  },
+  {
+    "id": "d22fd282-b705-4d1c-b5cd-99eb6c69f3bb",
+    "timestamp": "2017-11-29T23:46:11.337Z",
+    "Comment": "Been thinking of ways to broadcast truffles as they're created... this could be helpful",
+    "Link": "https://en.wikipedia.org/wiki/WebSub",
+    "truffle": true,
+    "code": true
+  },
+  {
+    "id": "b9c5d817-cf8b-46c6-8d38-c8750a95f95f",
+    "timestamp": "2017-11-25T18:32:25.268Z",
+    "Comment": "Going to try a version of this recipe to help with some of the turkey leftovers, using turkey in place of chicken.",
+    "Link": "https://www.apinchofhealthy.com/instant-pot-chicken-rice/",
+    "leftovers": true,
+    "Thanksgiving": true,
+    "InstantPot": true
+  },
+  {
+    "id": "75d75487-133a-40c2-b194-f4cb3a0059cd",
+    "timestamp": "2017-11-24T23:56:48.110Z",
+    "Comment": "Battling yet another bout of \"writer's block\" with Truffle. I want this to be something I can truly share with people; something that has use beyond my own amusement and exploration. I want it to be something people can use to make the Internet a more hospitable place. I want it to be fun. But it's still lingering here in this this zone between something I do exclusively for my own entertainment and something other people can run with. It's like every time I come up with an idea of how to make it easy, I dig in and discover it either will take far more time than have or that it will still be too complicated and limited. I know this will progress at some point, it just might not be right now.",
+    "WritersBlock": true,
+    "argh": true
+  },
+  {
+    "id": "94a742f9-dd48-4aa8-9896-cefed05eed0e",
+    "timestamp": "2017-11-24T20:02:15.110Z",
+    "Comment": "My Black Friday secret: I grocery shop on Black Friday. They sell fresh hams and turkeys at Central Market for around $10 on clearance. Got a ham for my freezer today ✅"
+  },
+  {
+    "id": "f10ff1af-cf10-4f1d-be23-6e25e07d00a2",
+    "timestamp": "2017-11-22T03:38:39.420Z",
+    "Comment": "Just discovered there's another \"truffle\" out there, only it's a framework for Ethereum contracts.",
+    "Link": "https://github.com/trufflesuite/truffle",
+    "argh": true,
+    "oops": true,
+    "WhatDoIDoNow": true
+  },
+  {
+    "id": "9a372bc1-355c-4e26-8f9c-eca731515628",
+    "timestamp": "2017-11-22T03:05:23.018Z",
+    "Comment": "Listened to the podcast A Tiny Revolution, with Kevin Garcia. He was interviewing Darren Calhoun and talked about how even when churches claim they're \"welcoming\", that doesn't necessarily mean they're truly allowing LGBT people to be themselves.",
+    "Podcast episode": "https://api.spreaker.com/download/episode/13306242/38_you_re_getting_all_in_my_kool_aid.mp3",
+    "Link": "https://www.spreaker.com/user/bedlam/38-youre-getting-all-in-my-kool-aid",
+    "lgbtqia": true
+  },
+  {
+    "id": "6efb6d85-6639-4494-820a-9bac9235e0c3",
+    "timestamp": "2017-11-21T02:48:16.039Z",
+    "Comment": "Tagging is a feature I just sort of decided to add to Truffle on a whim. You tag a truffle by setting a property to `true`. The only thing is that in JavaScript, the widely held convention is to reserve the use of capitalized names for object constructor functions and classes. I've realized this isn't a hard and fast rule. Therefore, in Truffle it's possible to declare a tag with a first capital letter. (Or so we will see when this parses.) You can then continue the rest of the tag in CamelCase, the way you would with a hashtag.",
+    "MaybeCapitalTagsAreOkay": true,
+    "truffle": true,
+    "code": true
+  },
+  {
+    "id": "3a4e2c4f-2e81-4657-ab75-3e6e7b0bc7e9",
+    "timestamp": "2017-11-21T02:38:38.892Z",
+    "Comment": "Allergies are terrible today 😭",
+    "Temperature": "14ºC",
+    "Weather": "Clear",
+    "Weather emoji": "🌓"
+  },
+  {
+    "id": "1f3e5b69-25ac-407b-9007-49861ac9b0c9",
+    "hostId": "eb3b36d2-77e4-4c00-81f1-a2f5b05787ad",
+    "timestamp": "2017-11-19T23:19:38.414Z",
+    "Comment": "Well, it looks like Map will work for an in-memory data store for presentation purposes, but is not going to be so handy for converting to JSON and back."
+  },
+  {
+    "id": "eb3b36d2-77e4-4c00-81f1-a2f5b05787ad",
+    "timestamp": "2017-11-19T22:09:47.263Z",
+    "Comment": "Just learned about the Map native class in ES6, this is going to help with Truffle considerably!",
+    "Link": "https://github.com/lukehoban/es6features#map--set--weakmap--weakset",
+    "Programming languages": [
+      "JavaScript"
+    ],
+    "code": true
+  },
+  {
+    "id": "8a1444cf-293b-4865-8701-f5f6e386080b",
+    "timestamp": "2017-11-19T21:24:22.543Z",
+    "Comment": "Had lunch with Andrew at Sap's today. We were going to go a little over a week ago, but realized at the last minute we had concert tickets in East Austin and needed to head in that direction immediately!",
+    "Place name": "Sap's",
+    "Location": "30.2314715,-97.8010527"
+  },
+  {
+    "id": "cf012adc-ce1b-4611-b4fa-6f157d1037b0",
+    "timestamp": "2017-11-18T22:28:28.042Z",
+    "Comment": "Did most of my Thanksgiving shopping today. Also reflecting on my first Thanksgiving with Andrew. It was my first time hosting Thanksgiving and I was super-excited! Had all of my ingredients ready to go and we had a guest from out of town. Andrew had to work that day, but we made time to have breakfast together. His family has a tradition of eating cinnamon rolls, so he put some in the oven. He told me to check on them; when I did, they were raw and cold. My oven was dead. I started panicking. One of his coworkers texted \"let me know if you need anything\" to which he replied \"do you have a kitchen we can borrow?\" She did! As Andrew went to work, I packed all of our groceries in the car, drove over to his coworker's apartment, and made Thanksgiving dinner. I'll always be thankful for her generosity that day in letting a bunch of meat-eaters cook in her vegetarian kitchen!",
+    "thanksgiving": true
+  },
+  {
+    "id": "6a7a9a99-5eb5-42a7-ab0e-1b12a1977a53",
+    "timestamp": "2017-11-17T03:33:41.519Z",
+    "Comment": "I know I'm late to the party, but I've been watching Game of Thrones with Andrew. Just now getting started on Season 4!",
+    "TV show": "Game of Thrones"
+  },
+  {
+    "id": "486ebcde-7e29-4cbf-b36f-cdf6fe3976bf",
+    "timestamp": "2017-11-14T03:05:20.938Z",
+    "Comment": "Showing Truffle to my friend Marc. Hi Marc!",
+    "example": true
+  },
+  {
+    "id": "c653091c-93d0-4317-971e-cf87280c2272",
+    "hostId": "20bf0781-cd07-45ff-8795-3021ba47470b",
+    "timestamp": "2017-11-12T20:38:57.188Z",
+    "Comment": "Served the pork with this sauce. Didn't have any sherry, so I used rice wine vinegar instead.",
+    "Link": "http://www.seriouseats.com/recipes/2011/07/sauced-char-siu-sauce-recipe.html"
+  },
+  {
+    "id": "20bf0781-cd07-45ff-8795-3021ba47470b",
+    "timestamp": "2017-11-12T20:35:12.299Z",
+    "Comment": "Bought a bone-in pork shoulder yesterday with no specific plans. Ended up finding a basic recipe and roasted it all afternoon. Was pretty happy with the results! Followed this recipe, only added fresh ginger, chili powder, and smoked paprika.",
+    "Link": "http://www.foodnetwork.com/recipes/aaron-mccargo-jr/simple-roasted-pork-shoulder-recipe-1923881"
+  },
+  {
+    "id": "c762d078-26d1-46df-9460-bf47a947a588",
+    "timestamp": "2017-11-08T23:59:03.558Z",
+    "Comment": "Today is a day where I'm remembering to practice joy. Today was crappy. Whether it's allerges, seasonal affective disorder, frustrations, disappointments, or even loss, it all seems to have hit myself and everyone around me today. Joy isn't about taking bitter situations and drowing them in sugar syrup so they average out to saccharine. As I've learned, real joy is about not letting your circumstances overcome your gifts and calling. It allows you to say, \"yeah, this sucks, but it doesn't change who I am and why I'm here.\""
+  },
+  {
+    "id": "fbd24d10-79fa-487a-bf33-3e40dcf1fc91",
+    "timestamp": "2017-11-08T03:26:05.479Z",
+    "Comment": "Voted today, but forgot to grab an \"I voted\" sticker.",
+    "politics": true
+  },
+  {
+    "id": "fc1f89e9-b987-4920-8f95-d0713aa39ffa",
+    "timestamp": "2017-11-07T02:19:26.970Z",
+    "Comment": "Having a moment where I know that it's an opportune time to work on Truffle, but I'm distracted from it. But oddly, I'm not frustrated. Let's see what happens!"
+  },
+  {
+    "id": "d1efc91f-47ec-461e-be76-1204b2a42fda",
+    "timestamp": "2017-11-04T22:16:51.832Z",
+    "Comment": "Today was cloudy, warm, and muggy earlier. The skies have cleared a bit for a sunset, but that post rain mugginess still lingers.",
+    "Temperature": "27ºC",
+    "Weather": "Partly cloudy, muggy",
+    "Weather emoji": "⛅️"
+  },
+  {
+    "id": "5c95c485-b839-44a4-89c3-8a3081b82c40",
+    "timestamp": "2017-11-03T03:08:16.407Z",
+    "Comment": "I recently subscribed to the Creation Curve podcast by my friends Kimberly and Coach. Of course I'm going to listen to the podcast episode about a craft, single-origin, direct trade coffee roaster!",
+    "Podcast episode": "http://media.blubrry.com/creationcurve/api.spreaker.com/download/episode/12383885/episode15drinktogetherpraxis.mp3",
+    "Link": "http://creationcurve.com"
+  },
+  {
+    "id": "8dd6ed21-b398-467b-89a5-b0f7fc161bc6",
+    "timestamp": "2017-11-01T01:07:34.489Z",
+    "Comment": "It's a cold, rainy Halloween that makes me want to just sit with a book. At the same time, it's making the yard muddy for Ellie, so that means wiping off her paws for the next 3-4 days.",
+    "Temperature": "12ºC",
+    "Weather": "Steady rain"
+  },
+  {
+    "id": "c7de7e92-acfb-4b1c-adf9-17c8f7fa7c42",
+    "timestamp": "2017-10-29T22:39:36.727Z",
+    "Comment": "Looked up a few beef stew recipes for the Instant Pot and ended up making my own.",
+    "Recipe": "Making some beef stew in the Instant Pot. Coated the beef cubes in about a quarter cup of flour (shook them in a take out container), then let them brown in the pot on the Saute setting. When the meat was brown to my liking, I poured in the beer, then scraped up the bits on the bottom with a spatula. Put in all of the other ingredients (chopped ahead of time), put the lid on, set the function to Stew and the time to 35 minutes.",
+    "Ingredients": [
+      "1/4 cup flour",
+      "1lb beef cubes",
+      "1lb carrots",
+      "1-1.5lb potatoes",
+      "2c beef broth",
+      "12oz bottle of beer",
+      "2 cloves of garlic",
+      "2-3 bay leaves"
+    ],
+    "InstantPot": true
+  },
+  {
+    "id": "51bfa149-f0d2-400b-8c1d-e3a18072ad65",
+    "timestamp": "2017-10-29T21:13:23.936Z",
+    "Comment": "And now I have a reader, thanks to these frameworks. Will work on publishing guest truffles (i.e., ones with a 'hostId') and displaying individual truffles on a separate page next.",
+    "Frameworks": [
+      "Webpack",
+      "Vue.js",
+      "Bootstrap"
+    ],
+    "Programming languages": [
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "3a7e5833-a34f-441e-a59c-e382a066b373",
+    "timestamp": "2017-10-29T20:10:25.444Z",
+    "Comment": "Having a moment of frustration with a bug that makes absolutely no sense. It's moments like these where I really want to quit and feel guilty for spending time on a project like this to begin with. But what I usually find helps best is to put the problem down for the moment, take a breath, address something else, and then come back later. Usually, I can code around what I was originally getting blocked by, or the solution just becomes obvious after spending some time away from it.",
+    "code": true
+  },
+  {
+    "id": "5996db06-fa9d-4a32-b167-f3c245be9671",
+    "timestamp": "2017-10-28T22:51:23.836Z",
+    "Comment": "Having much better luck with a Vue.js boilerplate project than with Elm.",
+    "Link": "http://vuejs-templates.github.io/webpack/",
+    "Programming languages": [
+      "Elm",
+      "JavaScript"
+    ],
+    "code": true
+  },
+  {
+    "id": "c5bffd09-c889-4bb7-8cbc-4ce9c5197d3d",
+    "timestamp": "2017-10-27T22:46:26.292Z",
+    "Comment": "Today's weather is the kind that makes you want to get home early and put on a pot of tea.",
+    "Temperature": "15ºC",
+    "Weather": "Partly cloudy, windy"
+  },
+  {
+    "id": "3d219231-3bb0-4ea8-b65f-22404fb39262",
+    "timestamp": "2017-10-26T02:31:21.729Z",
+    "Comment": "I took this recipe from Tasty Ever After and simplified it a bit. Received many compliments!",
+    "Ingredients": [
+      "3lbs boneless, skinless chicken thighs",
+      "1 cup barbecue sauce",
+      "1 T apple cider vinegar",
+      "1/2 medium red onion",
+      "4-5 cloves of garlic",
+      "1 tsp olive oil"
+    ],
+    "Recipe": "Peel and chop the onion and garlic. Place both in the Instant Pot with your olive oil and turn on the Saute function. Saute the onion and garlic until soft. Add all of the chicken, 1/2 cup of the barbecue sauce, and all of the apple cider vinegar. Lock the lid, select the Poultry setting, and set the timer for 20 minutes. When the cycle is done, do a quick release, open the lid, and shred the chicken. There will be a lot of liquid at this point, do not worry. Leave the lid off and turn on the Saute function. Add the remaining 1/2 cup of barbecue sauce and mix for a few minutes as the chicken continues to thread. Spoon chicken onto medium sized, toasted buns. Serves 8.",
+    "Link": "https://www.tastyeverafter.com/instant-pot-bbq-chicken/",
+    "InstantPot": true
+  },
+  {
+    "id": "360685c4-a205-4eba-ad0c-1bf1e88cd33c",
+    "timestamp": "2017-10-24T03:09:28.216Z",
+    "hostId": "6e534143-dc1b-4d9e-b72d-fb3411164cfc",
+    "Comment": "Here's the create-elm-app Node tool I used to create the application boilerplate.",
+    "Link": "https://github.com/halfzebra/create-elm-app"
+  },
+  {
+    "id": "6e534143-dc1b-4d9e-b72d-fb3411164cfc",
+    "timestamp": "2017-10-24T03:06:44.606Z",
+    "Comment": "Here's my first attempt at using Elm to parse truffles. Loading feed.json as a static asset for now",
+    "Link": "https://gist.github.com/jlleblanc/9307375ac3945ef9b77d2e70a8e77194",
+    "code": true,
+    "Programming languages": [
+      "Elm"
+    ]
+  },
+  {
+    "id": "3d8363c1-d76c-47aa-8f21-2407efa77431",
+    "timestamp": "2017-10-24T00:56:04.364Z",
+    "Comment": "About to start an Elm app for Truffles. Let's see how this goes!",
+    "code": true,
+    "Programming languages": [
+      "Elm"
+    ]
+  },
+  {
+    "id": "ac56ce76-f754-4678-ae63-b35ef34436e9",
+    "timestamp": "2017-10-23T01:36:31.135Z",
+    "Comment": "Finished rewatching All Stars Season 2 with friends of ours. We also watched the Reunited episode, which we'd skipped before. So much respect for Alyssa Edwards. Katya is still my favorite.",
+    "TV show": "RuPaul's Drag Race"
+  },
+  {
+    "id": "9315cbe4-e241-4cb5-900f-c1274f7b3268",
+    "timestamp": "2017-10-20T02:01:16.011Z",
+    "Comment": "Considering a switch to Elm for the truffle reader. Vue.js seems to be a nice balance between flexibility and whatever adjectives you'd like to use to describe Angular, but I think Elm might actually get me there faster (even though I'm still learning it.)",
+    "code": true
+  },
+  {
+    "id": "b3417d49-1e4c-4189-aea7-4c313cd45efc",
+    "timestamp": "2017-10-18T02:36:06.687Z",
+    "Comment": "Andrew and I have been enjoing this series. It's produced by Michael Schur (Parks and Recreation, Brooklyn 99), so if you like his stuff, give it a try.",
+    "TV show": "The Good Place"
+  },
+  {
+    "id": "86d77d0f-acff-420c-84ab-8e7232f484fd",
+    "timestamp": "2017-10-17T00:00:31.688Z",
+    "Comment": "Currently burning an apple cinnamon scented candle we picked up in Michigan! Don't tell my mother-in-law, but we also accidentally picked up one of her plastic containers to transport cider doughnuts.",
+    "Location": "43.0275607,-85.5922682"
+  },
+  {
+    "id": "90f3031c-b2ed-46a1-8c4b-86d240b86feb",
+    "timestamp": "2017-10-12T02:42:19.244Z",
+    "Comment": "Four years ago today, I came out of the closet. I never thought I'd be talking about being married to my husband four years later, but here I am. Here's the link to the original post I made when I came out.",
+    "Link": "http://outandhumbled.org/mug-of-questions",
+    "lgbtqia": true,
+    "comingOut": true
+  },
+  {
+    "id": "968542a9-7bc0-41ec-aac0-f6f3e5b1ba5e",
+    "timestamp": "2017-10-11T01:55:07.418Z",
+    "Comment": "Having one of those evenings where I'm finding myself doing more development tool shopping than actual coding. I think this article though finally gets me a bit closer to using Vue.js the way I want it to behave.",
+    "Link": "https://devblog.digimondo.io/building-a-json-tree-view-component-in-vue-js-from-scratch-in-six-steps-ce0c05c2fdd8",
+    "code": true
+  },
+  {
+    "id": "899d9dbc-66d8-4dd9-a2b1-fba611b8215a",
+    "timestamp": "2017-10-11T00:49:24.073Z",
+    "Comment": "I wonder what this analogy would look like if it were updated for today?",
+    "Bible passage": "1 Corinthians 11:17-22"
+  },
+  {
+    "id": "067975b3-cc66-44cf-bba3-a7ceca33d982",
+    "timestamp": "2017-10-11T00:46:49.860Z",
+    "Comment": "I finally mailed some poop today. I don't think we have heartworms to worry about, but it doesn't hurt to check.",
+    "pets": true,
+    "dogs": true
+  },
+  {
+    "id": "a83d60d8-4b8e-4eab-8ee4-ee93d50a4fcf",
+    "timestamp": "2017-10-10T02:42:05.587Z",
+    "Comment": "If I had the time and money, I'd start a Christian LGBTQIA coffeeshop/bar in Austin. Everyone welcome!",
+    "idea": true,
+    "lgbtqia": true
+  },
+  {
+    "id": "c4d23a22-99e1-4f1e-a340-084a37bb9935",
+    "timestamp": "2017-10-08T18:39:15.926Z",
+    "Comment": "I've sometimes said the thing that gets you hooked on programming is the moment you start getting more work out of a piece of code than what you put into it. However, a thought occurred to me today: instead of talking about the work I'm getting out of the code, what if I talked about the joy I'm getting out of it? The Truffle project is something I do in my spare time for no money. I don't believe I'll ever get rich off it, but there's certainly a lot of opportunity for joy. Part of what brings me joy is running the script that generates a \"blank\" truffle I can start filling. I'm making a point to start every session I work on Truffle with that joy!",
+    "Link": "http://truffle.jlleblanc.com/truffle.js"
+  },
+  {
+    "id": "494ec3dc-76eb-4e48-9b2b-cb75418d53e2",
+    "timestamp": "2017-10-07T22:26:18.639Z",
+    "Comment": "Just got back from a puppy party. Our dog is worn out!"
+  },
+  {
+    "id": "6f565240-30e4-4187-b84e-74740b2fad11",
+    "timestamp": "2017-10-07T00:29:58.064Z",
+    "Comment": "Giving Vue.js a whirl for rendering truffles. Liking it so far, but will want to refine the output to my needs.",
+    "code": true
+  },
+  {
+    "id": "88f5fa15-858e-4a1d-a035-d9abd2cf97c9",
+    "timestamp": "2017-10-06T00:09:35.786Z",
+    "Comment": "About to head out to meet other homeschooled/unschooled alumni for a meetup!",
+    "Link": "https://www.meetup.com/Alternatively-Educated-Alumni",
+    "Place name": "Epoch Coffee",
+    "Coordinates": "30.35935,-97.7346935"
+  },
+  {
+    "id": "23280f5f-61fb-407a-a818-33c15ed2b721",
+    "timestamp": "2017-10-06T00:05:40.183Z",
+    "hostId": "8ac77df5-a61d-452f-9850-464368d8a4f3",
+    "Coordinates": "30.2684628,-97.742528",
+    "Comment": "Got the coordinates wrong, these are the correct ones!",
+    "correction": true
+  },
+  {
+    "id": "8ac77df5-a61d-452f-9850-464368d8a4f3",
+    "timestamp": "2017-10-05T02:03:26.875Z",
+    "Place name": "Royal Blue Grocery",
+    "Coordinates": "30.2683276,-97.744441",
+    "Comment": "As I walked up today, I noticed a bunch of people with small plastic bowls. When I went inside, there was a woman behind a table selling Thai food. She said her mother makes the food, it's different every week, and they bring it to this location on Wednesdays. It looks like they also have it on Thursdays and Fridays at other locations too.",
+    "Recommendation": "Massaman curry",
+    "Link": "http://www.royalbluegrocery.com/specials"
+  },
+  {
+    "id": "91d32cbf-6e02-4daf-b8fa-b22c39611168",
+    "timestamp": "2017-10-04T02:58:48.135Z",
+    "Comment": "These couple of verses are the kind where while they're part of a larger passage, you find yourself saying 'Oof, that's really something to think about.'",
+    "Bible passage": "Matthew 7:1-2"
+  },
+  {
+    "id": "c7d0c5ad-f370-48bb-a614-4a3a122426e1",
+    "timestamp": "2017-10-04T00:58:10.226Z",
+    "hostId": "86270ca1-41c5-4c1c-817d-90ea2034512b",
+    "Comment": "I liked the flavor, but it needed a little bit of salt and a few red pepper flakes to make it right."
+  },
+  {
+    "id": "b994b048-6fd7-42a0-9af7-ebd484cf0dd8",
+    "timestamp": "2017-10-04T00:56:15.487Z",
+    "Comment": "Finally fixed the display of truffle.jlleblanc.com for mobile. Thanks StackOverflow and Bootstrap!",
+    "code": true
+  },
+  {
+    "id": "86270ca1-41c5-4c1c-817d-90ea2034512b",
+    "timestamp": "2017-10-03T23:39:32.586Z",
+    "Comment": "Haven't eaten this yet, but it's a bit more Instant Pot experimentation.",
+    "Ingredients": [
+      "Three medium carrots, chopped into rounds",
+      "One medium onion, chopped finely",
+      "Half of a bunch of kale, chopped (three stalks)",
+      "Three cloves of garlic, chopped",
+      "Italian seasoning (herbs)",
+      "Fennel seed",
+      "Olive oil",
+      "A 14oz can of tomato sauce",
+      "One pound of ground turkey"
+    ],
+    "Recipe": "Place the carrots, onions, kale, tomato sauce, and a few shakes of Italian seaoning in the pot. Add olive oil to a skillet and turn the heat to high. Fry up the garlic and fennel seed in the skillet for about 30 seconds. Brown the turkey in the skillet until it's cooked through. Close the pot and set it to high pressure for 10 minutes. Do a quick release and serve.",
+    "InstantPot": true
+  },
+  {
+    "id": "1d86cbb7-ab09-406e-a425-2d4ec7d0aafb",
+    "timestamp": "2017-10-03T01:02:25.077Z",
+    "Comment": "Showing Andrew how to add another truffle to the feed."
+  },
+  {
+    "id": "90183353-cb67-4b6f-be3c-a9d086cecf6f",
+    "timestamp": "2017-10-03T00:00:35.330Z",
+    "Comment": "When I listened to this episode of Freakonomics, the description of the Esperanto community reminded me of the Joomla! project. I don't think I would be prepared to hand over my car keys to just anyone claiming to be from the Joomla! community. However, that feeling like you're coming home even when you're visiting a city you've never been to rings true.",
+    "Podcast episode": "http://audio.wnyc.org/freakonomics_extras/freakonomics_extras092517.mp3",
+    "Link": "http://freakonomics.com/podcast/why-learn-esperanto-special-feature/"
+  },
+  {
+    "id": "d5c92fbd-6af4-4511-a2c0-ae6e09b4bcc0",
+    "timestamp": "2017-10-01T20:15:59.541Z",
+    "hostId": "24405dd8-8450-44c7-ba15-bb74f02ad649",
+    "Comment": "Here's a list of the beers (and one cider) we bought and shared.",
+    "Beers": [
+      "Oasis Texas Brewing Company - Slow Ride Pale Ale",
+      "Bell's Brewery - Oarsman Ale",
+      "Bishop Cider Co. - Crackberry"
+    ]
+  },
+  {
+    "id": "24405dd8-8450-44c7-ba15-bb74f02ad649",
+    "timestamp": "2017-09-30T20:03:18.196Z",
+    "Coordinates": "30.2337365,-97.8177314",
+    "Place name": "Spec's",
+    "Comment": "Got ready for a party on the lake. Always love shopping here!"
+  },
+  {
+    "id": "114c5a2d-1f69-409d-95d7-bd73f36addd0",
+    "timestamp": "2017-09-30T18:41:44.216Z",
+    "Comment": "Today I played a little Instant Pot routlette. Here's what I made.",
+    "Ingredients": [
+      "2 sweet potatoes",
+      "Half of a rotisserie chicken, deboned and defatted",
+      "Approximately 3 cups of chopped napa cabbage",
+      "Half a cup of red onion",
+      "Minced ginger",
+      "Approximately a tablespoon of fish sauce",
+      "Approximately a tablespoon of soy sauce",
+      "Half a cup of plain water"
+    ],
+    "Recipe": "Peel and slice the sweet potatoes. Peel and mince the ginger. Chop the cabbage into bite-size strips. Place all of the ingredients in the Instant Pot for 10 minutes on high pressure, then use the quick release. Serve.",
+    "InstantPot": true
+  },
+  {
+    "id": "317929d8-1042-494f-9f44-b1a32ee3f36b",
+    "timestamp": "2017-09-30T16:45:21.875Z",
+    "Link": "https://www.instagram.com/p/BZpL1AGATER/"
+  },
+  {
+    "id": "e6583855-cd43-4276-ad67-162abdf8ce2d",
+    "timestamp": "2017-09-30T16:34:29.643Z",
+    "Link": "http://www.theonion.com/article/area-man-constantly-mentioning-he-doesnt-own-a-tel-429",
+    "Comment": "This one never gets old!",
+    "oldie": true
+  }
+]
