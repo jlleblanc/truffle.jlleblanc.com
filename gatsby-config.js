@@ -5,7 +5,18 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
-    'gatsby-transformer-json'
+    'gatsby-transformer-json',
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Truffle Reader",
+        short_name: "Truffle",
+        start_url: "/reader",
+        background_color: "#f7f0eb",
+        theme_color: "#a2466c",
+        display: "minimal-ui",
+      },
+    }
     // ,
     // {
     //   resolve: `gatsby-source-filesystem`,
