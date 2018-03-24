@@ -15,7 +15,7 @@ const TemplateWrapper = ({ children }) => (
       ]}
       link={
         [
-          { rel: 'manifest', href: '/manifest.webmanifest' }
+          { rel: 'manifest', href: 'manifest.json' }
         ]
       }
     />
