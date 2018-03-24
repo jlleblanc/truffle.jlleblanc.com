@@ -1,0 +1,8 @@
+{
+  "name": "Truffle Reader",
+  "short_name": "Truffle",
+  "start_url": "/reader",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A reader for truffle sites."
+}
