@@ -13,6 +13,11 @@ const TemplateWrapper = ({ children }) => (
         { name: 'description', content: 'hosted conversations open to interpretation' },
         { name: 'keywords', content: 'publishing, JSON, social networking' },
       ]}
+      link={
+        [
+          { rel: 'manifest', href: '/manifest.webmanifest' }
+        ]
+      }
     />
     <Header />
     <div
