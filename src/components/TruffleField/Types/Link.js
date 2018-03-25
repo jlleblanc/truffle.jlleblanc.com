@@ -12,7 +12,7 @@ export default ({ value }) => {
   // brings up the issue that I should probably have better link handling in
   // this reader in general. For now though, I want to display what I have in
   // the most expedient way possible.
-  if (value.indexOf('https://www.instagram.com') === 0 || value.indexOf('https://instagr.am') === 0) {
+  if (value.indexOf('https://www.instagram.com/p/') === 0) {
     return (
       <Instagram value={value} />
     )
