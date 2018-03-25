@@ -4,6 +4,11 @@ import Guests from '../Guests'
 import TruffleRepository from '../../lib/TruffleRepository'
 import extractFields from '../../lib/extract-truffle-fields'
 import Link from "gatsby-link"
+import styled from "styled-components"
+
+const BackLink = styled(Link)`
+  text-decoration: none;
+`
 
 class SingleTruffle extends React.Component {
   constructor(props) {
@@ -60,7 +65,7 @@ class SingleTruffle extends React.Component {
             guests={[]}
            />
            <Guests guests={guests} />
-           <Link to="/reader/">🔙 return to list</Link>
+           <BackLink to="/reader/">🔙 return to list</BackLink>
         </div>
       )
     }
