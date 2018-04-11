@@ -34,7 +34,7 @@ class Types {
     }
 
     // Handle string types last
-    if (value.indexOf('http') === 0) {
+    if (typeof(value) === "string" && value.indexOf('http') === 0) {
       return Link
     }
 
