@@ -1,5 +1,11 @@
 [
   {
+    "id": "467c474e-16d3-4338-a565-a119c02bfdb8",
+    "timestamp": "2018-04-21T02:41:09.679Z",
+    "Reflection": "I drove to a park on Sunday and had one of these moments where I realize how the technology that's really worth it often takes the longest to mature. I got involved with podcasting back in late 2004, before iTunes even had a podcast directory. There were a handful of mostly experimental podcasts out there, many in the format of \"sorry I haven't podcasted in a while, here's an episode; sorry about the audio quality.\" There was no iPhone yet, and the idea was that you would have a piece of software that would sync episodes to a playlist in your iPod. My contribution to the community was a content management system plugin that generated RSS feeds with the <enclosure> tags that make podcasts work (even today.) Fast forward to Sunday, and I'm listening to Deborah Jian Lee interview Kate Bowler. I'm hit with a sense of awe and gratitude. I have a device in my pocket that effortlessly connects to my husband's car stereo and automatically plays interviews like this one. Podcasting has grown to the point that I now have to be selective about which ones I'm subscribed to! I no longer maintain the plugin I wrote (nor do I any longer use that CMS), but I know that for many years, it helped keep the community going. The software engineer in me wishes all of the software we write could be reusable, but the planner in me sees that all code is ultimately temporary. No code is truly wasted, if it contributes to a long term goal! All food for thought as I work on Truffle: my personal software project.",
+    "Instagram": "https://www.instagram.com/p/BhvInvmh7pU"
+  },
+  {
     "id": "f3b78b41-0cd8-41f5-b3de-07fc3e4f154b",
     "timestamp": "2018-04-11T03:16:00.194Z",
     "Comment": "This past weekend, we celebrated with dinners, a hot tub, a massage, and thawed wedding cake!",
