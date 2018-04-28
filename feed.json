@@ -1,5 +1,14 @@
 [
   {
+    "id": "926dfc0c-e36e-4aa3-b0ce-531b1fd24ba4",
+    "timestamp": "2018-04-28T20:20:11.075Z",
+    "Comment": "Made sure to spend some time here this morning; it looks like we're going to have rain all next week.",
+    "Park": "Dick Nichols Park",
+    "Temperature": "26ºC",
+    "Weather": "Clear and sunny",
+    "Weather emoji": "☀️"
+  },
+  {
     "id": "703682e1-5aec-43e5-aa5a-5b269d4d6bf0",
     "timestamp": "2018-04-28T02:15:34.478Z",
     "Project idea": "While the next step for Truffle is to write authoring tools so more people can join in the fun, I'm considering giving Vue a second shot. I'd like to rewrite the reader in Vue again, now that I have a better handle on how component-oriented JavaScript libraries work. Then I could possibly write a post comparing it with React."
