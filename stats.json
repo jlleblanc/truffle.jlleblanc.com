@@ -13,8 +13,8 @@
       "component---src-pages-reader-js-26ce0c1f1acc09af03fe.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-43c38ac42154b6363ed0.js",
-      "component---src-layouts-index-js-43c38ac42154b6363ed0.js.map"
+      "component---src-layouts-index-js-058dd279b5f09d603864.js",
+      "component---src-layouts-index-js-058dd279b5f09d603864.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -37,9 +37,9 @@
       "path---reader-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-685a26acb04d0addb270.js",
+      "app-ab49138ee3e3333fb809.js",
       "build-js-styles.css",
-      "app-685a26acb04d0addb270.js.map",
+      "app-ab49138ee3e3333fb809.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
