@@ -1,5 +1,11 @@
 [
   {
+    "id": "e3dbd146-97d1-4b21-8991-82f3301525fa",
+    "timestamp": "2018-06-02T14:53:54.307Z",
+    "Comment": "Finally got another haircut!",
+    "Haircut": true
+  },
+  {
     "id": "6bb6f08e-f7e6-48de-98a2-a072810a746e",
     "timestamp": "2018-06-01T20:08:53.095Z",
     "Comment": "Today was my last day on the job. Already missing my team!",
