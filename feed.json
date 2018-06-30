@@ -1,5 +1,19 @@
 [
   {
+    "id": "8c0172de-282f-4b87-9119-d23d5cc9d06d",
+    "timestamp": "2018-06-30T15:48:04.542Z",
+    "Comment": "Considering this as my next home for Truffle.",
+    "Platform": "Keybase",
+    "Advantages": [
+      "Takes care of identity",
+      "Has a `public` folder for publishing"
+    ],
+    "Disadvantages": [
+      "Have to figure out a way to deal with CORS, or build a stand-alone client",
+      "Not the friendliest platform for people who aren't software engineers"
+    ]
+  },
+  {
     "id": "ea09f3c8-faab-4d5f-97c8-abfd4ad944c7",
     "timestamp": "2018-06-30T04:08:16.804Z",
     "Challenge": "Dropping cynicism and sarcasm. I catch myself running into it all the time."
