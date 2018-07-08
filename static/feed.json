@@ -1,5 +1,13 @@
 [
   {
+    "id": "00d04c55-4e6f-41cd-8a39-6eecdc95fc9b",
+    "timestamp": "2018-07-08T04:33:12.873Z",
+    "Comment": "Been looking into some possibilities for projects; this has piqued my interest.",
+    "Framework": "Ruby on Rails",
+    "Query language": "GraphQL",
+    "Link": "https://github.com/MatthieuSegret/graphql-rails-blog"
+  },
+  {
     "id": "5fbe17a0-d254-4132-bbcf-352368d6a216",
     "timestamp": "2018-07-06T13:37:10.793Z",
     "Comment": "Enjoying a little cool-off!",
