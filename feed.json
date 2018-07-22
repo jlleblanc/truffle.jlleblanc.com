@@ -1,5 +1,12 @@
 [
   {
+    "id": "b95444a5-f267-494f-8336-47141c918fc7",
+    "timestamp": "2018-07-22T23:05:26.793Z",
+    "Comment": "In an effort to challenge some of my assumptions about databases, I've been asking this. Found some interesting perspectives.",
+    "Question": "Are stored procedures bad?",
+    "Link": "https://rob.conery.io/2015/02/20/its-time-to-get-over-that-stored-procedure-aversion-you-have/"
+  },
+  {
     "id": "d0860f8d-a2af-491e-8a07-03f6d737baed",
     "timestamp": "2018-07-21T18:24:49.199Z",
     "Color theme": "Solarized Light",
