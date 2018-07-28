@@ -1,5 +1,11 @@
 [
   {
+    "id": "0f81c8ed-f8e7-4e7f-af73-5b143ff4c28d",
+    "timestamp": "2018-07-28T00:35:59.647Z",
+    "Comment": "Got a haircut yesterday!",
+    "Haircut": true
+  },
+  {
     "id": "d5e6f0e5-763c-4f8a-89ef-2d65cb9f3d1b",
     "timestamp": "2018-07-26T00:54:38.050Z",
     "Comment": "It's been quite hot this week. They were attempting to remove the boot off the top of the Cavendar's sign and it caught on fire!",
