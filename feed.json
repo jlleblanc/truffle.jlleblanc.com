@@ -1,5 +1,17 @@
 [
   {
+    "id": "cf005b22-c5b7-4dfb-b638-b05537b18b93",
+    "hostId": "2fb96247-b7ce-496d-8c24-d5111e848345",
+    "timestamp": "2018-08-04T18:08:13.888Z",
+    "Comment": "I've made a few updates. Everything else is the same.",
+    "Ingredients": [
+      "1 T dark seasame oil",
+      "2tsp gochujang"
+    ],
+    "Recipe": "After adding the garlic and ginger, add gochujang and spread it around as much as possible for about 30 seconds before continuing the recipe. You can also scale back on the hoisin marinade since this adds more flavor.",
+    "Update": true
+  },
+  {
     "id": "784c9933-2c0f-4b90-866a-9b2b2909e0e6",
     "timestamp": "2018-08-02T00:54:36.600Z",
     "Comment": "Tis the season!",
