@@ -1,5 +1,11 @@
 [
   {
+    "id": "061ab1c1-8ca4-46d4-85c2-2379ad8b0698",
+    "timestamp": "2018-09-08T01:59:17.295Z",
+    "Comment": "Froyo night!",
+    "Place name": "Yoway"
+  },
+  {
     "id": "3d366162-1018-494b-b0d2-e41040d8410c",
     "timestamp": "2018-09-03T17:38:57.734Z",
     "Comment": "Been using this to simultaneously explore PostgreSQL and GraphQL.",
