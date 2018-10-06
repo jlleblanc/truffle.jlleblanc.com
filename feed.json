@@ -1,5 +1,11 @@
 [
   {
+    "id": "4552185c-04ce-4f3a-91c6-f13137dc7f8b",
+    "timestamp": "2018-10-06T17:16:29.433Z",
+    "Comment": "I got a haircut a week ago and forgot to write a truffle, so here's one.",
+    "Haircut": true
+  },
+  {
     "id": "1e1c17fc-812c-4fad-8d86-3bc572135178",
     "timestamp": "2018-09-27T00:03:25.936Z",
     "Comment": "Was inspired by seeing some recipes elsewhere online. Dressing ingredients are to taste, based on half of a lime.",
