@@ -1,5 +1,11 @@
 [
   {
+    "id": "33b24154-f7f7-456b-a3ab-bbb33aba7b6d",
+    "timestamp": "2018-10-16T02:40:44.933Z",
+    "Comment": "This is the first day of actual autumn in Austin.",
+    "Temperature": "7ºC"
+  },
+  {
     "id": "d7a782ac-67f7-460c-9424-a595cfaad90f",
     "timestamp": "2018-10-13T23:57:41.067Z",
     "Comment": "I've had an idea for an open-source project that Truffle has inspired. Keep finding myself short on time to write it. Maybe I could repurpose NaNoWriMo to do it?"
