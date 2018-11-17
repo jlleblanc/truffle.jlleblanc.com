@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <h1>hosted conversations open to interpretation</h1>
 
-    <p>ℹ️ To see Truffle in action, check out my personal feed. There's a <Link to="/reader/">reader</Link> written in React, as well as the <Link to="feed.json">raw JSON</Link> feed.</p>
+    <p>ℹ️ To see Truffle in action, check out my personal feed. There's a <Link to="/reader/">reader</Link> written in React, as well as the <Link to="feed.json">raw JSON</Link> feed. There's also now an <Link to="feed.xml">RSS feed.</Link></p>
 
     <h2>What is a truffle?</h2>
     <p>
