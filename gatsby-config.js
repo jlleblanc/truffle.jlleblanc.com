@@ -17,6 +17,8 @@ module.exports = {
         display: "minimal-ui",
       },
     }
+    // The problem here is that GraphQL requires that you specify the field names you want, rather than just returning
+    // what's in the object. Leaving this here commented out as a reminder that this doesn't work :(
     // ,
     // {
     //   resolve: `gatsby-source-filesystem`,
