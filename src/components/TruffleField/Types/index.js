@@ -5,7 +5,6 @@ import List from './List'
 import Link from './Link'
 import Audio from './Audio'
 import Bible from './Bible'
-import Instagram from './Instagram'
 import Emoji from './Emoji'
 
 let typeMap = {
@@ -15,7 +14,6 @@ let typeMap = {
   'link': Link,
   'podcast episode': Audio,
   'bible passage': Bible,
-  'instagram': Instagram,
   'emoji': Emoji
 }
 
