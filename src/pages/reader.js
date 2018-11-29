@@ -1,18 +1,25 @@
 import React from 'react'
 import TruffleFeed from '../components/TruffleFeed'
 import SingleTruffle from '../components/SingleTruffle'
-import TruffleRepository from '../lib/TruffleRepository'
-import { Route } from "react-router-dom";
+import Layout from "../components/layout"
 
 
 const Reader = (props) => {
   let hash = props.location.hash
 
   if (hash === '' || hash === '#/') {
-    return <TruffleFeed />
+    return (
+      <Layout>
+        <TruffleFeed />
+      </Layout>
+    )
   }
 
-  return <SingleTruffle id={hash.replace(/#\//, '')} />
+  return (
+    <Layout>
+      <SingleTruffle id={hash.replace(/#\//, '')} />
+    </Layout>
+  )
 }
 
 export default Reader
