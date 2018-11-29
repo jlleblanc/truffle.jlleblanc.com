@@ -1,5 +1,19 @@
 [
   {
+    "id": "a8b6a6e5-e6da-4890-9234-e6115eb76df5",
+    "timestamp": "2018-11-29T01:15:22.877Z",
+    "Comment": "Wondering if this would be a good fit for my message server idea.",
+    "Protocol": "XMPP",
+    "Pros": [
+      "Widely established protocol",
+      "Reference implementations are available"
+    ],
+    "Cons": [
+      "Might be too heavy for what I want",
+      "Unknown learning curve"
+    ]
+  },
+  {
     "id": "36adb1ef-ab46-46f1-8639-077d0df13005",
     "timestamp": "2018-11-27T15:23:37.600Z",
     "Comment": "Thanksgiving leftovers are officially expired today."
