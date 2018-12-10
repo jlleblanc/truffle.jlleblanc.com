@@ -38,7 +38,7 @@ feed.forEach(function(truffle) {
 
   rss.item({
     url: 'https://truffle.jlleblanc.com/reader/#/' + id,
-    title: 'A truffle for ' + date.toLocaleDateString('en-US')
+    title: 'A truffle for ' + date.toLocaleDateString('en-US'),
     date: timestamp,
     description: content,
     guid: id
