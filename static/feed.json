@@ -1,5 +1,18 @@
 [
   {
+    "id": "af82d60b-4911-44cf-ab04-254043a7d009",
+    "timestamp": "2018-12-12T16:00:49.480Z",
+    "Idea": "What if the USPS got into the email business?",
+    "Idea parts": [
+      "Everyone in the country gets an email address",
+      "These email accounts can only send/receive from other USPS email accounts (no spam)",
+      "Could give to all utilities, official entities, etc... for electronic delivery",
+      "Could manage account at physical post office in the event of a security issue",
+      "Could print messages for people who don't want online delivery",
+      "Could also send money if USPS gets into banking"
+    ]
+  },
+  {
     "id": "bfbd59fe-0060-410a-8deb-4d7b37f62436",
     "timestamp": "2018-12-10T00:10:18.604Z",
     "Comment": "Unloaded and reloaded the kitchen cabinets this weekend. It's incredible what accumulates!"
