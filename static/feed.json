@@ -1,5 +1,12 @@
 [
   {
+    "id": "97525a9c-af14-4578-87f3-973d4f06013f",
+    "timestamp": "2019-01-30T02:34:44.623Z",
+    "Comment": "I think I've found something to kickstart my chat project.",
+    "Framework": "SocketCluster",
+    "Link": "https://socketcluster.io"
+  },
+  {
     "id": "4e601e53-7930-435f-8492-8cee6d6c6b43",
     "timestamp": "2019-01-28T22:14:14.598Z",
     "Maxim": "When you build a plaform where anyone can say pretty much anything, everyone will say everything."
