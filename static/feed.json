@@ -1,5 +1,11 @@
 [
   {
+    "id": "e05fe4ec-4e16-47ad-a05f-1c2e6646a8ea",
+    "timestamp": "2019-02-19T14:38:30.929Z",
+    "Comment": "A good post about how blogs broke the web, ironically published on a blog.",
+    "Blog post": "https://stackingthebricks.com/how-blogs-broke-the-web/"
+  },
+  {
     "id": "404c1efc-768d-4428-bde2-156eca90de0c",
     "timestamp": "2019-02-09T21:53:52.659Z",
     "Idea": "Instead of doing a chat server, I'm going to do a party server where a game gets displayed on our TV. Stay tuned!"
