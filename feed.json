@@ -1,5 +1,11 @@
 [
   {
+    "id": "33a503fb-1b6b-46ef-93f1-9681eb206a1f",
+    "timestamp": "2019-02-22T15:32:29.741Z",
+    "hostId": "e05fe4ec-4e16-47ad-a05f-1c2e6646a8ea",
+    "Comment": "In light of this post, I think I'll do my Developer's Enneagram writings as pages rather than a blog."
+  },
+  {
     "id": "e05fe4ec-4e16-47ad-a05f-1c2e6646a8ea",
     "timestamp": "2019-02-19T14:38:30.929Z",
     "Comment": "A good post about how blogs broke the web, ironically published on a blog.",
