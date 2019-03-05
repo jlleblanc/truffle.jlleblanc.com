@@ -1,5 +1,11 @@
 [
   {
+    "id": "2df43449-677f-4878-9ae6-cc66189dae3b",
+    "timestamp": "2019-03-05T15:01:00.210Z",
+    "Comment": "When I look at a new framework or language, I want to start with an easy example to get started. But \"hello world\" and \"Todo MVC\" are usually not enough. I'm looking for something more like what this is to fonts: something that shows as much potential as possible in a glance.",
+    "Example": "The quick brown fox jumps over the lazy dog."
+  },
+  {
     "id": "3f0049e2-c872-4c96-bbc4-457665cbc8a4",
     "timestamp": "2019-03-02T04:50:07.790Z",
     "Comment": "Giving this a go for a while.",
