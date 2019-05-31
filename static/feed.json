@@ -1,5 +1,17 @@
 [
   {
+    "id": "4189b530-9567-44ff-9f06-843f87a6b441",
+    "timestamp": "2019-05-31T14:23:01.340Z",
+    "hostId": "045492ad-182d-4682-b520-3c69fd0e31d6",
+    "Ways we are tracked": [
+      "Clicks",
+      "Email addresses",
+      "Phone numbers",
+      "Location",
+      "Payment methods"
+    ]
+  },
+  {
     "id": "045492ad-182d-4682-b520-3c69fd0e31d6",
     "timestamp": "2019-05-31T14:10:21.062Z",
     "Comment": "We've spent the last 25+ years of the web being tracked by cookies. It's time to turn the paradigm around to where we're tracking what we're sending the web."
