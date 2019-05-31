@@ -1,5 +1,10 @@
 [
   {
+    "id": "045492ad-182d-4682-b520-3c69fd0e31d6",
+    "timestamp": "2019-05-31T14:10:21.062Z",
+    "Comment": "We've spent the last 25+ years of the web being tracked by cookies. It's time to turn the paradigm around to where we're tracking what we're sending the web."
+  },
+  {
     "id": "d6eac7b9-a7ee-4a46-b36d-dcb09a8762e5",
     "timestamp": "2019-05-23T13:28:43.031Z",
     "Comment": "Today, I powered down and deleted my hobby server. It's served me well for the past year, but I've come to realize it's been time to pull the plug for a while now. One reason is that in this season of my life, I don't have the time for hobby projects that I once did. It requires both time and focus... I usually don't have both at the same time these days. But beyond that reason, I feel that maybe I've outgrown the need for the server in the first place. I spun it up while I was looking for something new: a new framework, a new job, and (I now realize in retrospect) a new perspective on who I am and what I'm doing in this world. I hesitated as I hovered over the \"Delete\" button, but I clicked it knowing that sometimes you have to finish a chapter so you can get started on the next one."
