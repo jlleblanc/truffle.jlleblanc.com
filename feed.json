@@ -1,5 +1,12 @@
 [
   {
+    "id": "abb38454-9be9-4df4-ac5c-3187d9fc9d56",
+    "timestamp": "2021-01-16T16:53:45.584Z",
+    "Comment": "Starting work on a new project called Local Web. I'm thinking that maybe the way I should think about this is as a design pattern rather than a specific technology.",
+    "Link": "https://en.wikipedia.org/wiki/Design_pattern",
+    "Local Web": "true"
+  },
+  {
     "id": "7414b096-f590-402f-87b0-d2e94e3ff076",
     "timestamp": "2020-05-25T16:17:48.023Z",
     "Comment": "Is it still writer's block if you originally used a dictation service?"
